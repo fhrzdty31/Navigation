@@ -5,12 +5,12 @@
 <details>
     <summary>Home Page</summary>
 
-![Home Page](https://github.com/fhrzdty31/Chat-Apps-2/blob/25f9ce925cb9f46312c7d52e6db77d8476a91841/screenshot/Screenshot%20(1).jpg)
+![Home Page](https://github.com/fhrzdty31/Navigation/blob/a688631e3d87574b999191303cf8b690b860cd47/screenshot/Screenshot%20(1).jpg)
 
 </details>
 <details>
     <summary>Setting Page</summary>
 
-![Setting Page](https://github.com/fhrzdty31/Chat-Apps-2/blob/25f9ce925cb9f46312c7d52e6db77d8476a91841/screenshot/Screenshot%20(2).jpg)
+![Setting Page](https://github.com/fhrzdty31/Navigation/blob/a688631e3d87574b999191303cf8b690b860cd47/screenshot/Screenshot%20(2).jpg)
 
 </details>
